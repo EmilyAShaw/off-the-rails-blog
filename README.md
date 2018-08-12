@@ -1,24 +1,14 @@
-# README
+# Off the Rails Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a blog made by our team at the Railsbridge workshop (2018). We made this application using Ruby on Rails and with the help of our very lovely coaches. 
 
-Things you may want to cover:
+Team name: Off the Rails
+Our team: Emily, Olivia, Sam, Sharon, and Zoe
+Our coaches: Cara, Olivia, Van, Mai
 
-* Ruby version
+Functionality includes:
+* Creating a post
+* Deleting a post
+* Ordering the posts based on most recently posted
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Shout-out to Emily for creating the logo!
