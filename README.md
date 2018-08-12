@@ -2,9 +2,9 @@
 
 This is a blog made by our team at the Railsbridge workshop (2018). We made this application using Ruby on Rails and with the help of our very lovely coaches. 
 
-Team name: Off the Rails
-Our team: Emily, Olivia, Sam, Sharon, and Zoe
-Our coaches: Cara, Olivia, Van, Mai
+<b>Team name:</b> Off the Rails <br>
+<b>Our team:</b> Emily, Olivia, Sam, Sharon, and Zoe<br>
+<b>Our coaches:</b> Cara, Olivia, Van, Mai
 
 Functionality includes:
 * Creating a post
